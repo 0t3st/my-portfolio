@@ -1,0 +1,70 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/laravel.png",
+      "title": "Laravel Filament",
+      "description": "Passionate about intuitive user interfaces with Laravel Filament. Excels in crafting seamless interactions and elegant designs for administrative panels and back-office solutions."
+    },
+    {
+      "id": "2",
+      "src": "./img/react.png",
+      "title": "React",
+      "description": "Passionate about React for front-end development, crafting dynamic user interfaces. Committed to continuous learning for engaging web experiences"
+    },
+    {
+      "id": "3",
+      "src": "./img/html.png",
+      "title": "HTML & CSS",
+      "description": "Passionate about crafting visually appealing websites with HTML and CSS. Specializing in structured markup and CSS styling for modern, user-friendly design"
+    },
+    {
+      "id": "4",
+      "src": "./img/js.png",
+      "title": "JavaScript",
+      "description": "Passionate about JavaScript for dynamic web development, specializing in interactive and responsive web applications. Committed to continuous learning"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/t.jpg",
+      "title": "Web based Graduate Tracer with Email Notification For RTCCL",
+      "description": "School project wayback 2023",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/g.png",
+      "title": "Grab Boundary Management System with GPS Tracker and Notification for LABAN TNVS",
+      "description": "Capstone project",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/Ammunation.png",
+      "title": "Ammunation",
+      "description": "HTML Project wayback 2021",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/profiling-outline.png",
+      "description": "Visual Graphic Design NCIII",
+      "author_name": "April 11, 2019",
+      "author_designation": "Grade 11"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/security-two-color.png",
+      "description": "Cisco: Introduction to Cybersecurity",
+      "author_name": "November 24, 2022",
+      "author_designation": "3rd yr College"
+    }
+   
+  ]
+}
